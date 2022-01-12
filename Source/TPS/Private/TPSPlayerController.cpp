@@ -133,7 +133,7 @@ void ATPSPlayerController::CreateHUD()
 
 void ATPSPlayerController::UpdateHUDPlayerList_Implementation(const FString& PlayerJoining)
 {
-	if (IsLocalPlayerController())
+	if (IsLocalPlayerController() && LobbyUIHUDWidget)
 	{
 		LobbyUIHUDWidget->SetOnlinePlayersText(PlayerJoining);
 	}
