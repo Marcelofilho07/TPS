@@ -8,4 +8,4 @@ There are power-up arround the map. Green balls recover life and Red balls doubl
 Match Begins when all players click Ready.
 Match Ends after 60seconds.
 
-Here's a quick [showcase](https://www.youtube.com/watch?v=KFrPFrkZqoc)
+Here's a quick [showcase](https://www.youtube.com/watch?v=KFrPFrkZqoc).
